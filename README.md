@@ -8,6 +8,12 @@ This project is a UX/UI redesign of the Google Developer Groups (GDG) website ai
 
 Google Developer Groups (GDGs) are community-led groups where developers learn, connect, and grow through events, workshops, and collaboration. :contentReference[oaicite:0]{index=0}
 
+## Live Website
+
+🌐 Website: https://gdgjss.in/
+
+
+
 ---
 
 ## 🎯 Problem Statement
