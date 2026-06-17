@@ -14,7 +14,7 @@ Google Developer Groups (GDG) are community-led groups where developers learn, c
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 
 The existing platform provides access to events, chapters, and community resources, but new users may find it difficult to:
 
@@ -28,7 +28,7 @@ The goal was to create a cleaner, more intuitive, and visually engaging experien
 
 ---
 
-## 👥 Target Users
+## Target Users
 
 ### Primary Users
 - College students
