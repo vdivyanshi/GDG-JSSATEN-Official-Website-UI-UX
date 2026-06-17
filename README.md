@@ -1,6 +1,6 @@
-# GDG Official Website Redesign 
+# GDG Official Website Re-design 
 
-## 📌 Overview
+## Overview
 
 This project is a UX/UI redesign of the Google Developer Groups (GDG) website aimed at improving user engagement, navigation, event discovery, and community participation.
 
