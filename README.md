@@ -4,7 +4,6 @@
 
 Google Developer Groups-JSSATEN (GDG) website re-vamp.
 
-:contentReference[oaicite:0]{index=0}
 
 ## Hero Page
 <img width="4626" height="3873" alt="Frame 2147225823" src="https://github.com/user-attachments/assets/e5379116-5d96-45ba-b21f-8d8c03d9b2ff" />
